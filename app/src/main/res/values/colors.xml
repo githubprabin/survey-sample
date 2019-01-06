@@ -5,4 +5,9 @@
     <color name="colorAccent">#00a2e8</color>
 
     <color name="subCardColor">#ffffff</color>
+    <color name="colorWhiteText">#ffffff</color>
+    <color name="colorBlackText">#000</color>
+    <color name="colorGray">#f4f4f4</color>
+    <color name="white">#fff</color>
+    <color name="lightGray">#89d1d1d1</color>
 </resources>

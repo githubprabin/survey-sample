@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Survey</string>
+    <string name="a1">a1</string>
+    <string name="ghardhani_name">name</string>
+    <string name="ghardhani_sex">gender</string>
+    <string name="ghardhani_contact">contact</string>
 </resources>
